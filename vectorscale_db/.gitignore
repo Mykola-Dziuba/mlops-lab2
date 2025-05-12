@@ -1,0 +1,12 @@
+# Docker volumes
+vectorscale_db/milvus_db/volumes/
+milvus_db/volumes/
+
+# Large datasets
+datasets/abo/
+
+# Archives, models, temporary files
+*.tar
+*.gz
+*.zip
+*.pt
